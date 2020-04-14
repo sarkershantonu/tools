@@ -1,15 +1,20 @@
 # Wget basics
 
-# Options
+# Useful Options
 - no Certificate checks 
            
            --no-check-certificate
 - Turn Off following robot text 
       
       -e robots=off
+- Level to download 
+	
+	-l,  --level=NUMBER       maximum recursion depth (inf or 0 for infinite).
+- Accepted Patterns
 
+	-A,  --accept=LIST               comma-separated list of accepted extensions.
 
-# Options from help 
+# All Options (from help )
 
             
  	Startup:
