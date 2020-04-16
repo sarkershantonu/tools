@@ -1,4 +1,14 @@
 # Iperf3 to test speed
+- Default iperf3 server listens on TCP port 5201 
+# Run iperf3 server 
+
+		iperf3 -s 
+# Run iperf3 server in Background
+
+		iperf3 -s D
+# Run iperf3 client to test
+
+		iperf3 -c ip_or_address_of_server
 
 # Options in linux(mostly) 
 
