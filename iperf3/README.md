@@ -9,7 +9,11 @@
 # Run iperf3 client to test
 
 		iperf3 -c ip_or_address_of_server
+		
+# Iperf3 Testing Example 
 
+		iperf3 -c shantonu.duckdns.org
+![iperf3 commandline](iperf3-cli.jpg)
 # Options in linux(mostly) 
 
 	Usage: iperf [-s|-c host] [options]
