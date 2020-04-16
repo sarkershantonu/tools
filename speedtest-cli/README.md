@@ -2,9 +2,12 @@
 
 # Installation 
 
-      sudo apt-get install speedtest-cli -y
+      sudo apt-get update && sudo apt-get install speedtest-cli -y
       
 # Test Speed 
   
       speedtest
+
+![speedtest](speedtest.jpg)
+
 # Cli Options
