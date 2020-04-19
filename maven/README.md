@@ -1,4 +1,7 @@
 # Basic Maven Commands
+- Run(test) with debug mode & error messages
+
+	  mvn -X -e clean test
 
 # CLI options
 
