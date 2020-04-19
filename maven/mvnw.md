@@ -5,4 +5,4 @@
 - No need specific maven to be installed
 
 # Command changes
-- Use './mvnw' in place of 'mvn'
+- Use "./mvnw" in place of "mvn"
