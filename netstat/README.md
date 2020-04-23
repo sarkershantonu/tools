@@ -1,4 +1,4 @@
-# Linux Net tools 
+# Linux Net statistics utilities 
 # Installation 
     
     sudo apt-get install -y net-tools
@@ -7,7 +7,9 @@
 - To know TCP ports used by applications 
 
         netstat -plant
+- To know UDP ports used by applications 
 
+        netstat -uplan
 # CLI Options 
 
 
