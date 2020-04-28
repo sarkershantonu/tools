@@ -24,11 +24,15 @@
 - Select 1 (add repositories)
 - After adding , you will back to selection menu, choose 2 (update)
 - After update complete type back. 
+
+# Step 4 : Select tools to install 
 - From home page, select 2 (View Categories). you should see this selection page. 
-.
-.
-.
+
 (todo, I will add screenshots)
+
+# Step 5 : Install menu & indicator (optional for some ubuntu distributions) 
+- From home page, select 3(install classicmenu indicator)
+- From home page, select 4(install kali menu)
 
 # Notes : 
 1. type "back" to get to previous menu
