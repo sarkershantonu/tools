@@ -20,3 +20,13 @@
 - From first menu, choose 1 => Add kali repositories & update , you should see this 
 
 ![Submenu of selection 1](katoolin-2.JPG)
+
+- Select 1 (add repositories)
+- After adding , you will back to selection menu, choose 2 (update)
+- After update complete type back. 
+
+
+Note : 
+1. type "back" to get to previous menu
+2. type "gohome" to get back to first selection page (home)
+3. 
