@@ -1,4 +1,4 @@
-# Install via katoolin in ubuntu
+# Install via katoolin in ubuntu (TODO)
 
 # Step 1 : Preapere Ubuntu for installation
 
@@ -19,4 +19,4 @@
 
 - From first menu, choose 1 => Add kali repositories & update , you should see this 
 
-![Submenu of selection 1] (katoolin-2.JPG)
+![Submenu of selection 1](katoolin-2.JPG)
