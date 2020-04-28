@@ -24,7 +24,11 @@
 - Select 1 (add repositories)
 - After adding , you will back to selection menu, choose 2 (update)
 - After update complete type back. 
-
+- From home page, select 2 (View Categories). you should see this selection page. 
+.
+.
+.
+(todo, I will add screenshots)
 
 # Notes : 
 1. type "back" to get to previous menu
