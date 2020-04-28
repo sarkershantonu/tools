@@ -26,7 +26,7 @@
 - After update complete type back. 
 
 
-Note : 
+# Notes : 
 1. type "back" to get to previous menu
 2. type "gohome" to get back to first selection page (home)
 3. Almost no time, under any catagory, select "0" works for installing all tools togather. 
