@@ -8,8 +8,8 @@
 # Step 2 : Get katoolin installer from Github
 
     git clone https://github.com/LionSec/katoolin.git
-    sudo cp katoolin/katoolin.py /usr/bin/katoolin
-    suco chmod +x /usr/bin/katoolin
+    sudo cp katoolin/katoolin.py /usr/bin/katoolin.py
+    suco chmod +x /usr/bin/katoolin.py
 # Step 3 : Install 
 
     sudo katoolin
