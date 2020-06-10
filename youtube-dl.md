@@ -1,6 +1,20 @@
 #  youtube-dl is tool to download youtube videos. 
 
-# Some usages 
+# Installations 
+- Install via APT
+
+	sudo apt-get install -y youtube-dl
+- install via PIP
+
+	sudo pip install youtube-dl
+	
+- install manually 
+
+	sudo wget https://yt-dl.org/latest/youtube-dl -O /usr/local/bin/youtube-dl
+	sudo chmod a+x /usr/local/bin/youtube-dl
+	hash -r
+
+# Usages 
 - to download an individual video 
 
        youtube-dl your_video_url
@@ -11,6 +25,11 @@
 - to download a whole playlist
 
        youtube-dl -citw your_video_playlist_url
+# Updating
+- To update 
+
+	sudo youtube-dl -U
+
 # CLI options 
 
 		Usage: youtube-dl [OPTIONS] URL [URL...]
