@@ -25,6 +25,10 @@
 - to download a whole playlist
 
        youtube-dl -citw your_video_playlist_url
+- to download a links containing link.txt file 
+
+		youtube-dl -q --no-warnings -f best -a link.txt
+
 # Updating
 - To update 
 
