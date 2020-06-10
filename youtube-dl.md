@@ -8,7 +8,7 @@
 
 		sudo pip install youtube-dl
 	
-- install manually 
+- install manually (best way to get latest version)
 
 		sudo wget https://yt-dl.org/latest/youtube-dl -O /usr/local/bin/youtube-dl
 		sudo chmod a+x /usr/local/bin/youtube-dl
