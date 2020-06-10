@@ -3,16 +3,16 @@
 # Installations 
 - Install via APT
 
-	sudo apt-get install -y youtube-dl
+		sudo apt-get install -y youtube-dl
 - install via PIP
 
-	sudo pip install youtube-dl
+		sudo pip install youtube-dl
 	
 - install manually 
 
-	sudo wget https://yt-dl.org/latest/youtube-dl -O /usr/local/bin/youtube-dl
-	sudo chmod a+x /usr/local/bin/youtube-dl
-	hash -r
+		sudo wget https://yt-dl.org/latest/youtube-dl -O /usr/local/bin/youtube-dl
+		sudo chmod a+x /usr/local/bin/youtube-dl
+		hash -r
 
 # Usages 
 - to download an individual video 
