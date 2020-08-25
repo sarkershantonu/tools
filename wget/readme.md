@@ -19,6 +19,10 @@
 - To download whole site (http, not https)
 
 		wget -r --no-parent _site_url
+- Get all Ubuntu ISO files from CDN (will be hundreds of GB)
+
+		wget -r -l4 -A.iso http://cdimage.ubuntu.com
+
 
 # All Options (from help )
 
