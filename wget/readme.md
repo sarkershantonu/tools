@@ -14,6 +14,12 @@
 
 		-A,  --accept=LIST               comma-separated list of accepted extensions.
 
+# Examples 
+
+- To download whole site (http, not https)
+
+		wget -r --no-parent _site_url
+
 # All Options (from help )
 
             
