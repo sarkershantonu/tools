@@ -29,3 +29,5 @@ TRACERT prints out an ordered list of the intermediate routers that return ICMP 
 # Example 
 
 ![example](tracert.jpg)
+
+![example2](tracert2.jpg)
