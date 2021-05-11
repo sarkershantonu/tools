@@ -1,7 +1,7 @@
 # [Hub](https://github.com/github/hub)
 - His git with extra features 
 
-# Github Specific Commandsh
+# Github Specific Commands 
 
 ``` 
 These GitHub commands are provided by hub:
