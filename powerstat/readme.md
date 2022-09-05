@@ -102,3 +102,8 @@ POLL         0.001%       4837       0
 C0           1.339%
 root@pve:~# 
 ``` 
+
+
+### Monitoring in stress condition 
+- I use stress tool to load a stress  ```stress -c 24 -i 13 -m 3```
+- And using the same command to monitor usages "powerstat -R -c -z" 
