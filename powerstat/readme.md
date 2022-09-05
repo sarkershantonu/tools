@@ -263,3 +263,30 @@ Histogram (of 60 thermal zone x86_pkg_temp readings)
 
 ### Complete help manual 
 
+```
+root@pve:~# powerstat -h
+powerstat, version 0.02.18
+
+usage: powerstat [options] [delay [count]]
+        -a enable all sampling collection options (-c, -f, -t and -H)
+        -b redo a sample if a system is busy, considered less than 98% CPU idle
+        -c show C-State statistics at end of the run
+        -d specify delay before starting, default is 180 seconds
+        -D show RAPL domain power measurements (enables -R option)
+        -f show average CPU frequency
+        -g show GPU power (currently just i915)
+        -h show help
+        -H show spread of measurements with power histogram
+        -i specify CPU idle threshold, used in conjunction with -b
+        -n no printing of table heading when screen scrolls
+        -p redo a sample if we see process fork/exec/exit activity
+        -r redo a sample if busy and we see process activity (same as -b -p)
+        -R gather stats from Intel RAPL interface
+        -s show process fork/exec/exit activity log
+        -S calculate power from capacity drain using standard average
+        -t show Thermal Zone temperatures (in degrees C)
+        -z forcibly ignore zero power rate stats from the battery
+        delay: delay between each sample, default is 10.0 seconds
+        count: number of samples to take
+        
+  ```
