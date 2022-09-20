@@ -22,6 +22,12 @@
 - Get all Ubuntu ISO files from CDN (will be hundreds of GB)
 
 		wget -r -l4 -A.iso -q http://cdimage.ubuntu.com
+- Download all links from a text file ```all_links.txt```
+
+```
+wget -i all_links.txt
+
+```
 
 
 # All Options (from help )
