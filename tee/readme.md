@@ -1,0 +1,1 @@
+command | tee file.txt
