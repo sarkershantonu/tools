@@ -24,6 +24,8 @@
 		wget -r -l4 -A.iso -q http://cdimage.ubuntu.com
 - Download all links from a text file ```all_links.txt```
 
+- Download all links of tunkey LXC images ```wget -r -l4 -A.gz -q http://mirror.turnkeylinux.org/turnkeylinux/images/proxmox/ --no-check-certificate &``` 
+
 ```
 wget -i all_links.txt
 
