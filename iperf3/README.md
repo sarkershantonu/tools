@@ -9,7 +9,14 @@
 # Run iperf3 client to test
 
 		iperf3 -c ip_or_address_of_server
-		
+
+# Run with Miltiple Stream 
+```iperf3 -c ip_or_address_of_server -p number_stream```
+
+# Run with 1s interval 
+```iperf3 -c ip_or_address_of_server -i internal_second_value```
+
+
 # Iperf3 Testing Example 
 
 		iperf3 -c shantonu.duckdns.org
